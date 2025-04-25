@@ -28,16 +28,17 @@ Incorporates trends such as seasonality in the synthetic data, providing users w
 
 ### Purpose and Benefits:
 
-"Business Insights from Transaction Data" is designed to give individuals a realistic dataset and the tools needed to practice data analysis in the e-commerce and financial services space. By working with this project, users can:
+Business Insights from Transaction Data" is designed to give individuals a realistic dataset and the tools needed to practice data analysis in the e-commerce and financial services space. By working with this project, users can:
 
 Develop a deeper understanding of customer behavior and transaction trends.
 Gain experience in data manipulation, visualization, and analysis.
 Improve their ability to create and work with synthetic datasets.
 Enhance their data-driven decision-making skills.
 This project is an excellent resource for anyone looking to strengthen their data analysis capabilities and apply their skills to scenarios commonly found in e-commerce and financial services.
-Dependencies
 
-### The following Python libraries are required to run this project:
+### Dependencies
+
+The following Python libraries are required to run this project:
 
 pandas is used for data manipulation and analysis, providing data structures for efficient data handling and processing.
 numpy is used for numerical computation and mathematical operations on arrays and matrices.
